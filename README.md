@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/welcome.png" width="900" alt="Welcome banner"/>
-</p>
-
 <h1 align="center">Hi, I'm Ruan</h1>
 <h3 align="center">Back-end student</h3>
 
